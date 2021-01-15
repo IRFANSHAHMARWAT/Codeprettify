@@ -1,4 +1,4 @@
-!function(){/* MIUSM | THE BEST FOR YOU
+!function(){/* MIUSM | THE BEST FOR YOU miusm-tech.blogspot.com
 
     Copyright (C) 2013 Google Inc.
    
